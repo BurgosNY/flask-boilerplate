@@ -1,2 +1,3 @@
-# flask-boilerplate
-A boilerplate code for apps with Flask, TailwindCSS and DaisyUI, using blueprints
+# Data intelligence HQ
+Site em Flask que reúne os principais projetos do time de Inteligência de Dados do Insper
+
